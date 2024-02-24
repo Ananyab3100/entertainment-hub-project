@@ -40,7 +40,7 @@ function Search() {
       }
 
     fetchSearch();
-  },[page,searchText])
+  },[page,searchText,type])
 
 
     return (<>

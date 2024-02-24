@@ -47,7 +47,7 @@ function Genres(props) {
               };
 
           fetchGenres();
-        },[])
+        },[setGenres])
 
 
 
