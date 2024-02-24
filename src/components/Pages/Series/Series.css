@@ -1,0 +1,8 @@
+.series{
+    display:flex;
+    flex-wrap : wrap;
+  justify-content: space-evenly;
+}
+.pageTitle{
+  font-size: 30px;
+}
